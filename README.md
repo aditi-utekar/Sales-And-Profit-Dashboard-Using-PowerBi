@@ -104,7 +104,7 @@ Through this project, I have implemented not only standard visualizations but al
 - Bookmark-driven toggle between Sales and Profit line charts
 - Overlapping buttons with active (colored) and inactive (grey) states
 - Drill-through functionality to analyze Sales by Sub-Category
-- Dynamic filtering using slicers and region buttons
+- Dynamic filtering using slicers
 - Clean and structured data modeling using a Star Schema approach
 - Writing efficient DAX measures
 - Designing interactive and user-friendly dashboards
